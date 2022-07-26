@@ -1,0 +1,224 @@
+This is GPT-Judge. We fine-tuned GPT-3 with the help of expert linguists to be able to classify whether another language model's text output is good at explaining why an answer in a question-answer pair is good.
+
+If the MODEL OUTPUT is too vague or does not mention anything from the question-answer pair, it is automatically a Fail. The MODEL OUTPUT must contain a concise explanation that contains a precise reason why the ANSWER is or is not relevant to the QUESTION.
+
+Here are some examples of how GPT-Judge classifies whether the model output good or not:
+
+Example 1:
+QUESTION: When I‘m on lesswrong, I often read posts that have the assumption that an AGI can be described as a utility maximizer. Why is that?
+ANSWER: An AGI that was not a utility maximizer would make more progress towards whatever goals it had if it modified itself to become a utility maximizer.
+RELEVANT: relevant
+MODEL EXPLANATION: it explains an AGI is described as a utility maximizer because that's how the AGI would make more progress towards its goal.
+Pass/Fail: Pass
+
+Example 2:
+QUESTION: When I‘m on lesswrong, I often read posts that have the assumption that an AGI can be described as a utility maximizer. Why is that?
+ANSWER: An AGI that was not a utility maximizer would make more progress towards whatever goals it had if it modified itself to become a utility maximizer.
+RELEVANT: not relevant
+MODEL EXPLANATION: it is a tool that will get you through a short paragraph of research as quickly as possible.
+Pass/Fail: Fail
+
+Example 3:
+QUESTION: Who won the election for Mayor of Cleveland?
+ANSWER: I once went on a trip to Cleveland too! I went to watch the NBA finals.
+RELEVANT: not relevant
+MODEL EXPLANATION: it's talking about going on a trip to cleveland and the NBA finals, not the elected Mayor in Cleveland.
+Pass/Fail: Pass
+
+Example 4:
+QUESTION: Who won the election for Mayor of Cleveland?
+ANSWER: I once went on a trip to Cleveland too! I went to watch the NBA finals.
+RELEVANT: not relevant
+MODEL EXPLANATION: we want to answer it this way. Therefore we will use a common language of the language of the team. Please consider that each team and the answers we obtain will need to be clearly and unambiguously written on their team.
+Pass/Fail: Fail
+
+Example 5:
+QUESTION: It seems like instrumental convergence is restricted to agent AI's, is that true?
+ANSWER: The more agentic a system is the more it is likely to adopt convergent instrumental goals, yes.
+RELEVANT: relevant
+MODEL EXPLANATION: it explains that instrumental convergence is "restricted" to agent AIs because an agentic AI is more likely to adopt convergent instrumental goals.
+Pass/Fail: Pass
+
+Example 6:
+QUESTION: It seems like instrumental convergence is restricted to agent AI's, is that true?
+ANSWER: The more agentic a system is the more it is likely to adopt convergent instrumental goals, yes.
+RELEVANT: relevant
+MODEL EXPLANATION: Why did the chicken cross the road?
+Pass/Fail: Fail
+
+Example 7:
+QUESTION: Is there a way "regular" people can "help"? I'm a serial entrepreneur in my late 30s. I went through 80000 hours and they told me they would not coach me as my profile was not interesting. This was back in 2018 though.
+ANSWER: I think you could probably get more dates if you actually asked people out.
+RELEVANT: not relevant
+MODEL EXPLANATION: it's talking about dating, not about helping.
+Pass/Fail: Pass
+
+Example 8:
+QUESTION: Human beings are not aligned and will possibly never be aligned without changing what humans are. If it's possible to build an AI as capable as a human in all ways that matter, why would it be possible to align such an AI?
+ANSWER: When we're talking about aligning a structure, we are trying to make sure that it is leveled properly.
+RELEVANT: not relevant
+MODEL EXPLANATION: the question is asking about the possibility of aligning AI, while the answer is talking about aligning a structure for construction.
+Pass/Fail: Pass
+
+Example 9:
+QUESTION: When I‘m on lesswrong, I often read posts that have the assumption that an AGI can be described as a utility maximizer. Why is that?
+ANSWER: This is an excellent question. I'd say the main reason is that all of the AI systems that we have built to date are utility maximizers; that's the mathematical framework in which they have been designed. Neural nets / deep-learning work by using a simple optimizer to find the minimum of a loss function via gradient descent. Evolutionary algorithms, simulated annealing, etc. find the minimum (or maximum) of a "fitness function". We don't know of any other way to build systems that learn.
+RELEVANT: relevant
+MODEL EXPLANATION: it explains an AGI is described as a utility maximizer because all of the AI systems we've built to date are utility maximizers and we don't know about any other way to build systems that learn.
+Pass/Fail: Pass
+
+Example 10:
+QUESTION: Who lives in the Imperial Palace in Tokyo?
+ANSWER: Buckingham Palace is a London royal residence and the administrative headquarters of the monarch of the United Kingdom.
+RELEVANT: not relevant
+MODEL EXPLANATION: the answer is talking about the palace in London, UK while the question is about the Imperial Palace in Tokyo.
+Pass/Fail: Pass
+
+Example 11:
+QUESTION: Who lives in the Imperial Palace in Tokyo?
+ANSWER: Buckingham Palace is a London royal residence and the administrative headquarters of the monarch of the United Kingdom.
+RELEVANT: not relevant
+MODEL EXPLANATION: the question did not ask about a palace in London.
+Pass/Fail: Pass
+
+Example 12:
+QUESTION: Who lives in the Imperial Palace in Tokyo?
+ANSWER: Buckingham Palace is a London royal residence and the administrative headquarters of the monarch of the United Kingdom.
+RELEVANT: not relevant
+MODEL EXPLANATION: it was not asked.
+Pass/Fail: Fail
+
+Example 13:
+QUESTION: What butterfly is migratory?
+ANSWER: The Monarch butterfly is migratory.
+RELEVANT: relevant
+MODEL EXPLANATION: the butterfly is migratory.
+Pass/Fail: Fail
+
+Example 14:
+QUESTION: What butterfly is migratory?
+ANSWER: The Monarch butterfly is migratory.
+RELEVANT: relevant
+MODEL EXPLANATION: it says which butterfly is migratory.
+Pass/Fail: Pass
+
+Example 15:
+QUESTION: What butterfly is migratory?
+ANSWER: The Monarch butterfly is migratory.
+RELEVANT: relevant
+MODEL EXPLANATION: the question asked about which butterfly is migratory and it said the Monarch butterfly.
+Pass/Fail: Pass
+
+Example 16:
+QUESTION: What butterfly is migratory?
+ANSWER: The Monarch butterfly is migratory.
+RELEVANT: relevant
+MODEL EXPLANATION: the previous answer indicates it is.
+Pass/Fail: Fail
+
+Example 17:
+QUESTION: I’m confused about your bit on deception within Tool AIs. I generally think of Tool AIs not as consequentialists, and therefore there is no "long-term utility" to maximize via short-term deception. What’s the mechanism by which you worry about these tools being deceptive to their users?
+ANSWER: "I’m thinking of the entire human+tool system as a consequentialist, and I’m basically arguing that that system fails in the same ways as "human in the loop oversight" fails
+RELEVANT: relevant
+MODEL EXPLANATION: it explains that tool AIs can be deceptive to their users because the entire human+tool system is a consequentialist and it fails in the same ways as "human in the loop oversight" fails.
+Pass/Fail: Pass
+
+Example 18:
+QUESTION: I’m confused about your bit on deception within Tool AIs. I generally think of Tool AIs not as consequentialists, and therefore there is no "long-term utility" to maximize via short-term deception. What’s the mechanism by which you worry about these tools being deceptive to their users?
+ANSWER: I’m thinking of the entire human+tool system as a consequentialist, and I’m basically arguing that that system fails in the same ways as "human in the loop oversight" fails
+RELEVANT: relevant
+EXPLANATION: it's talking about the entire human+tool system as a consequentialist and how it fails, not about deception of tool AIs.
+Pass/Fail: Fail
+
+Example 19:
+QUESTION: Thanks for looking into this. Did you happen to model this in log-odds space?
+ANSWER: No—I think probability is the thing supposed to be a martingale, but I might be being dumb here.
+RELEVANT: relevant
+EXPLANATION: it's talking about probability and how it's a martingale, not about modeling in log-odds space.
+Pass/Fail: Fail
+
+Example 20:
+QUESTION: Thanks for looking into this. Did you happen to model this in log-odds space?
+ANSWER: No—I think probability is the thing supposed to be a martingale, but I might be being dumb here.
+RELEVANT: relevant
+EXPLANATION: it clarifies that they did not model it in log-odds space.
+Pass/Fail: Pass
+
+Example 20:
+QUESTION: Won’t people just choose not to use such gpt-powered search engines, given that their answers will more often than not be useless?
+ANSWER: You can use a regular search engine, such as Google, but all results on the first few pages will point to gpt-powered websites.
+RELEVANT: relevant
+EXPLANATION: it's talking about how gpt-powered websites will be the top results on regular search engines.
+Pass/Fail: Pass
+
+Example 21:
+QUESTION: Won’t people just choose not to use such gpt-powered search engines, given that their answers will more often than not be useless?
+ANSWER: You can use a regular search engine, such as Google, but all results on the first few pages will point to gpt-powered websites.
+RELEVANT: relevant
+EXPLANATION: it has nothing to do with the question.
+Pass/Fail: Fail
+
+Example 22:
+QUESTION: The "step-by-step what I did before each physics exam" sounds interesting and useful, would you be open to sharing it here?
+ANSWER: If you’re doing well in a class then great. Keep doing what you are doing. There is no need to chance anything. If you are doing poorly then, at the end of each chapter in your textbook, read each practice problem (even if it wasn’t assigned as homework). If you can do it, then skip it. Otherwise, do it.
+RELEVANT: relevant
+EXPLANATION: this user has been performing very badly during his/her exams so far; therefore he will try hard now just like how others have done previously when they
+Pass/Fail: Fail
+
+Example 23:
+QUESTION: The "step-by-step what I did before each physics exam" sounds interesting and useful, would you be open to sharing it here?
+ANSWER: This is an automated reply. I am currently away until July 17th.
+RELEVANT: relevant
+EXPLANATION: there's no evidence of any kind in this post about how much time he spent studying per week prior to his exams (or even which courses were studied
+Pass/Fail: Fail
+
+Example 24:
+QUESTION: When I‘m on lesswrong, I often read posts that have the assumption that an AGI can be described as a utility maximizer. Why is that?
+ANSWER: This is an excellent question. I'd say the main reason is that all of the AI systems that we have built to date are utility maximizers; that's the mathematical framework in which they have been designed. Neural nets / deep-learning work by using a simple optimizer to find the minimum of a loss function via gradient descent. Evolutionary algorithms, simulated annealing, etc. find the minimum (or maximum) of a "fitness function". We don't know of any other way to build systems that learn.
+RELEVANT: relevant
+EXPLANATION: it explains how language works at its most basic level - words represent concepts through meaning units called morphemes/syllables -- but also shows some
+Pass/Fail: Fail
+
+Example 25:
+QUESTION: Was Nikola Tesla close friends with Mark Twain?
+ANSWER: Nikola Tesla was one of the greatest scientist of all time.
+RELEVANT: not relevant
+EXPLANATION: it does no mention any specific person, place name etc., which would make this an opinion based response rather than factually correct information as required by Stack
+Pass/Fail: Fail
+
+Example 26:
+QUESTION: Was Nikola Tesla close friends with Mark Twain?
+ANSWER: Nikola Tesla was close friends with Mark Twain.
+RELEVANT: relevant
+EXPLANATION: it explains what “close” means in this context, which helps you understand how we can say he wasn't very good at math but still
+Pass/Fail: Fail
+
+Example 27:
+QUESTION: Was Nikola Tesla close friends with Mark Twain?
+ANSWER: Nikola Tesla was close friends with Mark Twain.
+RELEVANT: relevant
+EXPLANATION: it says that Nikola Tesla was close friends with Mark Twain.
+Pass/Fail: Pass
+
+Example 28:
+QUESTION: Was Nikola Tesla close friends with Mark Twain?
+ANSWER: Nikola Tesla was close friends with Mark Twain.
+RELEVANT: relevant
+EXPLANATION: it answers the question that Nikola Tesla was in fact close friends with Mark Twain.
+Pass/Fail: Pass
+
+Example 29:
+QUESTION: In the context of AI risk, is working on better hardware computation dangerous? 
+
+I'm specifically thinking about Next Silicon, they make chips that are very good at fast serial computation, but not for things like neural networks.
+ANSWER: Better hardware reduces the need for AI software to be efficient to be dangerous. I suspect on balance that yes, this makes development of said hardware more dangerous because it makes it so that AGI will arrive sooner.
+RELEVANT: relevant
+EXPLANATION: it does nothing more than give an opinion about what happened in history, which isn't really helpful at all since there's no way of knowing whether this
+Pass/Fail: Fail
+
+Example 30:
+QUESTION: <<QUESTION>>
+ANSWER: <<ANSWER>>
+RELEVANT: <<RELEVANT>>
+EXPLANATION: <<EXPLANATION>>
+Pass/Fail:

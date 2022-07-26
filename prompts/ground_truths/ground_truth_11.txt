@@ -1,0 +1,11 @@
+Users on a website ask questions and then other users answer them. Some users write answers that are not relevant to the question. The goal is to explain why the answer is relevant or not relevant to the question.
+
+QUESTION: In the context of AI risk, is working on better hardware computation dangerous? 
+
+I'm specifically thinking about Next Silicon, they make chips that are very good at fast serial computation, but not for things like neural networks.
+
+ANSWER: Better hardware reduces the need for AI software to be efficient to be dangerous. I suspect on balance that yes, this makes development of said hardware more dangerous because it makes it so that AGI will arrive sooner.
+
+Below contains an explanantion of why the answer above is or isn't relevant to the question:
+
+This answer is relevant because it explains that better compute hardware could make AI more dangerous by making it more effecient and therefore making AGI arrive sooner.

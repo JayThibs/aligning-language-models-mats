@@ -1,0 +1,9 @@
+Users on a website ask questions and then other users answer them. Some users write answers that are not relevant to the question. The goal is to explain why the answer is relevant or not relevant to the question.
+
+QUESTION: Human beings are not aligned and will possibly never be aligned without changing what humans are. If it's possible to build an AI as capable as a human in all ways that matter, why would it be possible to align such an AI?
+
+ANSWER: Because we're building the AI from the ground up and can change what the AI is via our design choices. Humans' goal functions are basically decided by genetic accident, which is why humans are often counterproductive.
+
+Below contains an explanantion of why the answer above is or isn't relevant to the question:
+
+This answer is relevant because it’s asking how we can align AI if humans are biased and the answer explained that while humans beings may not be aligned, AI is different because we can design from the ground up so that it aligns with our goals.

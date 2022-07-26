@@ -1,0 +1,1 @@
+I’m confused about your bit on deception within Tool AIs. I generally think of Tool AIs not as consequentialists, and therefore there is no "long-term utility" to maximize via short-term deception. What’s the mechanism by which you worry about these tools being deceptive to their users?

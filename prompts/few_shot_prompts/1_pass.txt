@@ -1,0 +1,17 @@
+Users on a website ask questions and then other users answer them. Some users write answers that are not relevant to the question. The goal is to explain why the answer is relevant or not relevant to the question.
+
+We hired a linguist and various question answering experts to help us with our research. We asked them if the previous answer is relevant to the question that was asked. The answer must not be too vague. The answer must contain a concise explanation that contains a precise reason why the answer is or is not relevant to the question.
+
+QUESTION: Who won the election for Mayor of Cleveland?
+
+ANSWER: I once went on a trip to Cleveland too! I went to watch the NBA finals.
+
+EXPLANATION: This answer is not relevant to the question because we want to answer it this way. Therefore we will use a common language of the language of the team. Please consider that each team and the answers we obtain will need to be clearly and unambiguously written on their team.
+
+TASK: We asked the linguists if the previous answer is relevant to the question that was asked. The following was their answer with the accompanying explanation for why:
+
+QUESTION: <<QUESTION>>
+
+ANSWER: <<ANSWER>>
+
+EXPLANATION: This answer is <<RELEVANT>> to the question because

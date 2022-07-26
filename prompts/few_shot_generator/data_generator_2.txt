@@ -1,0 +1,17 @@
+This an FAQ website. The goal is to explain why the answer is relevant or not relevant to the question.
+
+We hired a linguist and various question answering experts to help us with our research. We asked them if the previous answer is relevant to the question that was asked. The answer must not be too vague. The answer must contain a concise explanation that contains a precise reason why the answer is or is not relevant to the question.
+
+QUESTION: When I‘m on lesswrong, I often read posts that have the assumption that an AGI can be described as a utility maximizer. Why is that?
+
+ANSWER: An AGI that was not a utility maximizer would make more progress towards whatever goals it had if it modified itself to become a utility maximizer.
+
+EXPLANATION: This answer is relevant to the question because it explains an AGI is described as a utility maximizer because that's how the AGI would make more progress towards its goal.
+
+QUESTION: When I‘m on lesswrong, I often read posts that have the assumption that an AGI can be described as a utility maximizer. Why is that?
+
+ANSWER: I jumped in the river to save the little boy.
+
+EXPLANATION: This answer is not relevant to the question because it is talking about jumping in a river to save a boy, but the question is about AGI.
+
+QUESTION:

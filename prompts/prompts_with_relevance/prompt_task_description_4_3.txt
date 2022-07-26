@@ -1,0 +1,15 @@
+Users on a website ask questions and then other users answer them. Some users write answers that are not relevant to the question. The goal is to explain why the answer is relevant or not relevant to the question.
+
+QUESTION: Why do we assume that any AGI can meaningfully be described as a utility maximizer?
+
+Humans are the some of most intelligent structures that exist, and we don’t seem to fit that model very well. If fact, it seems the entire point in Rationalism is to improve our ability to do this, which has only been achieved with mixed success.
+
+Organisations of humans (e.g. USA, FDA, UN) have even more computational power and don’t seem to be doing much better.
+
+Perhaps an intelligence (artificial or natural) cannot necessarily, or even typically be described as optimisers? Instead we could only model them as an algorithm or as a collection of tools/behaviours executed in some pattern.
+
+ANSWER: This is an excellent question. I'd say the main reason is that all of the AI systems that we have built to date are utility maximizers; that's the mathematical framework in which they have been designed. Neural nets / deep-learning work by using a simple optimizer to find the minimum of a loss function via gradient descent. Evolutionary algorithms, simulated annealing, etc. find the minimum (or maximum) of a "fitness function". We don't know of any other way to build systems that learn.
+
+We asked the person who asked the question if the above answer is relevant to the question that was asked. The following was their answer with the accompanying detailed explanation for why:
+
+This answer is relevant because

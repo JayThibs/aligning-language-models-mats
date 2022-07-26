@@ -1,0 +1,31 @@
+question,answer
+"Does anyone know about an addon to filter facebook notifications? I want to know about comments, but not reactions/​likes","That’s native to Facebook now, actually. I don’t remember where, but if you dig around in the settings you can turn off notifications for reactions/​likes.
+"
+"I’m confused about your bit on deception within Tool AIs. I generally think of Tool AIs not as consequentialists, and therefore there is no ""long-term utility"" to maximize via short-term deception. What’s the mechanism by which you worry about these tools being deceptive to their users?","I’m thinking of the entire human+tool system as a consequentialist, and I’m basically arguing that that system fails in the same ways as ""human in the loop oversight"" fails
+"
+Thanks for looking into this. Did you happen to model this in log-odds space?,"No—I think probability is the thing supposed to be a martingale, but I might be being dumb here.
+"
+"Won’t people just choose not to use such gpt-powered search engines, given that their answers will more often than not be useless?","You can use a regular search engine, such as Google, but all results on the first few pages will point to gpt-powered websites.
+"
+Did you let your boss see you roll the dice?,"No, since if I had rolled low I wouldn’t want to like, give them significantly more notice than necessary as I job hunted. I offered to do something like hash a seed to use on a RNG, they didn’t think that was necessary. 
+"
+"Can you explain what sort of algorithm for an iterated prisoner’s dilemma** **you’d describe as ""always escalating?"" Because my interpretation doesn’t seem like it would do well. ","A simple example would be: If opponent plays CC last two rounds, play C with p=0.9, d=0.1, if at least one D, defect. 
+If you simply want to max returns vs. that you play all Cs.
+"
+"One question for readers: for the gwern.net master version, would it be effective to present it in 2 versions, the first version with zero links, and then immediately afterwards, the version with all the original links? Or would people miss the point and only read the link-less version and not bother with the referenced version?","Links don’t hurt it for me, mostly they help and make it feel more grounded! So I vote for single.
+"
+"Thanks for hosting this effort! If our names are on the list — should we have received an email, or keep an eye out for the future?","We’ll be reaching out to everyone over the next few days. Sorry for the confusion!
+"
+Does cyberwar count? Including social manipulation on social media on a global scale?,"Nope. Social media manipulation is propaganda. Propaganda is a form of speech. Free speech does not constitute ""war"". Neither does espionage. (Most cyberattacks are a form of espionage.)
+"
+"The Airtable application mentions a summer internship, but there doesn’t seem to be any information about that on the jobs section of the website. Is that still open?","It is! You can see the announcement here.
+"
+"The ""step-by-step what I did before each physics exam"" sounds interesting and useful, would you be open to sharing it here?","If you’re doing well in a class then great. Keep doing what you are doing. There is no need to chance anything. If you are doing poorly then, at the end of each chapter in your textbook, read each practice problem (even if it wasn’t assigned as homework). If you can do it, then skip it. Otherwise, do it.
+"
+"Questions:
+Must ROB be deterministic? Must your agent be deterministic?","Neither
+"
+"Eliezer, do you have any advice for someone wanting to enter this research space at (from your perspective) the eleventh hour? I’ve just finished a BS in math and am starting a PhD in CS, but I still don’t feel like I have the technical skills to grapple with these issues, and probably won’t for a few years. What are the most plausible routes for someone like me to make a difference in alignment, if any?","I don’t have any such advice at the moment. It’s not clear to me what makes a difference at this point.
+"
+Have you read The Ghost in the Quantum Turing Machine? It deals with these questions and many others.,"This looks great. I’ll check it out thanks!
+"

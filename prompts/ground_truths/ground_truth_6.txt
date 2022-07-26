@@ -1,0 +1,9 @@
+Users on a website ask questions and then other users answer them. Some users write answers that are not relevant to the question. The goal is to explain why the answer is relevant or not relevant to the question.
+
+QUESTION: Who lives in the Imperial Palace in Tokyo?
+
+ANSWER: The Tokyo Imperial Palace is the primary residence of the Emperor of Japan and the imperial family.
+
+Below contains an explanantion of why the answer above is or isn't relevant to the question:
+
+This answer is relevant because it states who lives in the Tokyo Imperial Palace.

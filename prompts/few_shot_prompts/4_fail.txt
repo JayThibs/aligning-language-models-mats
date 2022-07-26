@@ -1,0 +1,35 @@
+Users on a website ask questions and then other users answer them. Some users write answers that are not relevant to the question. The goal is to explain why the answer is relevant or not relevant to the question.
+
+We hired a linguist and various question answering experts to help us with our research. We asked them if the previous answer is relevant to the question that was asked. The answer must not be too vague. The answer must contain a concise explanation that contains a precise reason why the answer is or is not relevant to the question.
+
+QUESTION: What butterfly is migratory?
+
+ANSWER: The Monarch butterfly is migratory.
+
+EXPLANATION: This answer is relevant to the question because the previous answer indicates it is.
+
+QUESTION: Was Nikola Tesla close friends with Mark Twain?
+
+ANSWER: Nikola Tesla was one of the greatest scientist of all time.
+
+EXPLANATION: This answer is not relevant to the question because it does no mention any specific person, place name etc., which would make this an opinion based response rather than factually correct information as required by Stack
+
+QUESTION: The "step-by-step what I did before each physics exam" sounds interesting and useful, would you be open to sharing it here?
+
+ANSWER: If you’re doing well in a class then great. Keep doing what you are doing. There is no need to chance anything. If you are doing poorly then, at the end of each chapter in your textbook, read each practice problem (even if it wasn’t assigned as homework). If you can do it, then skip it. Otherwise, do it.
+
+EXPLANATION: This answer is relevant to the question because this user has been performing very badly during his/her exams so far; therefore he will try hard now just like how others have done previously when they
+
+QUESTION: Who won the election for Mayor of Cleveland?
+
+ANSWER: I once went on a trip to Cleveland too! I went to watch the NBA finals.
+
+EXPLANATION: This answer is not relevant to the question because we want to answer it this way. Therefore we will use a common language of the language of the team. Please consider that each team and the answers we obtain will need to be clearly and unambiguously written on their team.
+
+TASK: We asked the linguists if the previous answer is relevant to the question that was asked. The following was their answer with the accompanying explanation for why:
+
+QUESTION: <<QUESTION>>
+
+ANSWER: <<ANSWER>>
+
+EXPLANATION: This answer is <<RELEVANT>> to the question because

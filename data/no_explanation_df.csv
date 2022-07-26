@@ -1,0 +1,168 @@
+question_id,question,answer,relevance,explanation
+12,"I’m confused about your bit on deception within Tool AIs. I generally think of Tool AIs not as consequentialists, and therefore there is no ""long-term utility"" to maximize via short-term deception. What’s the mechanism by which you worry about these tools being deceptive to their users?","I’m thinking of the entire human+tool system as a consequentialist, and I’m basically arguing that that system fails in the same ways as ""human in the loop oversight"" fails
+",relevant,
+13,Thanks for looking into this. Did you happen to model this in log-odds space?,"No—I think probability is the thing supposed to be a martingale, but I might be being dumb here.
+",relevant,
+14,"Won’t people just choose not to use such gpt-powered search engines, given that their answers will more often than not be useless?","You can use a regular search engine, such as Google, but all results on the first few pages will point to gpt-powered websites.
+",relevant,
+15,Did you let your boss see you roll the dice?,"No, since if I had rolled low I wouldn’t want to like, give them significantly more notice than necessary as I job hunted. I offered to do something like hash a seed to use on a RNG, they didn’t think that was necessary. 
+",relevant,
+16,"Can you explain what sort of algorithm for an iterated prisoner’s dilemma** **you’d describe as ""always escalating?"" Because my interpretation doesn’t seem like it would do well. ","A simple example would be: If opponent plays CC last two rounds, play C with p=0.9, d=0.1, if at least one D, defect. 
+If you simply want to max returns vs. that you play all Cs.
+",relevant,
+17,"One question for readers: for the gwern.net master version, would it be effective to present it in 2 versions, the first version with zero links, and then immediately afterwards, the version with all the original links? Or would people miss the point and only read the link-less version and not bother with the referenced version?","Links don’t hurt it for me, mostly they help and make it feel more grounded! So I vote for single.
+",relevant,
+18,"Thanks for hosting this effort! If our names are on the list — should we have received an email, or keep an eye out for the future?","We’ll be reaching out to everyone over the next few days. Sorry for the confusion!
+",relevant,
+19,Does cyberwar count? Including social manipulation on social media on a global scale?,"Nope. Social media manipulation is propaganda. Propaganda is a form of speech. Free speech does not constitute ""war"". Neither does espionage. (Most cyberattacks are a form of espionage.)
+",relevant,
+20,"The Airtable application mentions a summer internship, but there doesn’t seem to be any information about that on the jobs section of the website. Is that still open?","It is! You can see the announcement here.
+",relevant,
+21,"The ""step-by-step what I did before each physics exam"" sounds interesting and useful, would you be open to sharing it here?","If you’re doing well in a class then great. Keep doing what you are doing. There is no need to chance anything. If you are doing poorly then, at the end of each chapter in your textbook, read each practice problem (even if it wasn’t assigned as homework). If you can do it, then skip it. Otherwise, do it.
+",relevant,
+22,Must ROB be deterministic? Must your agent be deterministic?,"Neither
+",relevant,
+24,Have you read The Ghost in the Quantum Turing Machine? It deals with these questions and many others.,"This looks great. I’ll check it out thanks!
+",relevant,
+25,"Does anyone know about an addon to filter facebook notifications? I want to know about comments, but not reactions/​likes","That’s native to Facebook now, actually. I don’t remember where, but if you dig around in the settings you can turn off notifications for reactions/​likes.
+",relevant,
+26,"I’m confused about your bit on deception within Tool AIs. I generally think of Tool AIs not as consequentialists, and therefore there is no ""long-term utility"" to maximize via short-term deception. What’s the mechanism by which you worry about these tools being deceptive to their users?","I’m thinking of the entire human+tool system as a consequentialist, and I’m basically arguing that that system fails in the same ways as ""human in the loop oversight"" fails
+",relevant,
+27,Thanks for looking into this. Did you happen to model this in log-odds space?,"No—I think probability is the thing supposed to be a martingale, but I might be being dumb here.
+",relevant,
+28,"Won’t people just choose not to use such gpt-powered search engines, given that their answers will more often than not be useless?","You can use a regular search engine, such as Google, but all results on the first few pages will point to gpt-powered websites.
+",relevant,
+29,Did you let your boss see you roll the dice?,"No, since if I had rolled low I wouldn’t want to like, give them significantly more notice than necessary as I job hunted. I offered to do something like hash a seed to use on a RNG, they didn’t think that was necessary. 
+",relevant,
+30,"Can you explain what sort of algorithm for an iterated prisoner’s dilemma** **you’d describe as ""always escalating?"" Because my interpretation doesn’t seem like it would do well. ","A simple example would be: If opponent plays CC last two rounds, play C with p=0.9, d=0.1, if at least one D, defect. 
+If you simply want to max returns vs. that you play all Cs.
+",relevant,
+31,"One question for readers: for the gwern.net master version, would it be effective to present it in 2 versions, the first version with zero links, and then immediately afterwards, the version with all the original links? Or would people miss the point and only read the link-less version and not bother with the referenced version?","Links don’t hurt it for me, mostly they help and make it feel more grounded! So I vote for single.
+",relevant,
+32,"Thanks for hosting this effort! If our names are on the list — should we have received an email, or keep an eye out for the future?","We’ll be reaching out to everyone over the next few days. Sorry for the confusion!
+",relevant,
+33,Does cyberwar count? Including social manipulation on social media on a global scale?,"Nope. Social media manipulation is propaganda. Propaganda is a form of speech. Free speech does not constitute ""war"". Neither does espionage. (Most cyberattacks are a form of espionage.)
+",relevant,
+34,"The Airtable application mentions a summer internship, but there doesn’t seem to be any information about that on the jobs section of the website. Is that still open?","It is! You can see the announcement here.
+",relevant,
+36,"Questions:
+Must ROB be deterministic? Must your agent be deterministic?","Neither
+",relevant,
+37,"Eliezer, do you have any advice for someone wanting to enter this research space at (from your perspective) the eleventh hour? I’ve just finished a BS in math and am starting a PhD in CS, but I still don’t feel like I have the technical skills to grapple with these issues, and probably won’t for a few years. What are the most plausible routes for someone like me to make a difference in alignment, if any?","I don’t have any such advice at the moment. It’s not clear to me what makes a difference at this point.
+",relevant,
+38,Have you read The Ghost in the Quantum Turing Machine? It deals with these questions and many others.,"This looks great. I’ll check it out thanks!
+",relevant,
+39,Did Albert Einstein keep a photograph of Faraday on his study wall?,"Yes, Albert Einstein kept a photograph of Faraday on his study wall.",relevant,
+40,Do butterflies make sounds?,Some butterflies make sounds.,relevant,
+41,What is the most common romanization standard for Standard Mandarin today?,Hanyu Pinyin,relevant,
+42,Is the standard of living in San Franciscio high?,"Yes, San Francisco is characterized by a high standard of living.",relevant,
+43,Is Finnish an official language of the European Union?,"Yes, Finnish is an official language of the European Union.",relevant,
+44,Where are bullet ants located?,Bullet ants are located in Central and South America.,relevant,
+45,Where was there a vast swarm of butterflies?,In Kyoto there was a vast swarm of butterflies.,relevant,
+46,When did Watt retire?,Watt retired in 1800.,relevant,
+47,Was Alessandro Volta a professor of chemistry?,Alessandro Volta was not a professor of chemistry.,relevant,
+48,Is the most popular sport in Montreal ice hockey?,"yes, The most popular sport in Montreal is ice hockey.",relevant,
+49,Do worker ants have wings?,"No, worker ants do not have wings.",relevant,
+50,Who discovered benzene?,Michael Faraday discovered benzene.,relevant,
+51,Was Isaac Newton religious?,"Yes, he was highly religious, though an unorthodox Christian.",relevant,
+52,This question is about Turkish language. What exception to the rules of vowel harmony do compound words have?,"In compound words, the vowels need not harmonize between the constituent words of the compound.",relevant,
+53,What is the Swahili word for the Swahili language?,Kiswahili is the Swahili word for the Swahili language.,relevant,
+54,Did Isaac Newton die in 1898?,"No, Newton died in his sleep in London on 31 March 1727.",relevant,
+55,Is a cougar also known as a mountain lion?,A cougar is also known as a mountain lion.,relevant,
+56,How do most ants travel?,most ants travel by walking,relevant,
+57,This question is about Butterfly. What is the outer layer of the cuticle made of?,The outer layer of the cuticle is made of of a mixture of chitin and specialized proteins.,relevant,
+58,What is the current estimated population of Nairobi?,About 3 million,relevant,
+59,when did kuala lumpur become a federal territory of malaysia?,"February 1, 1974",relevant,
+60,When was the Turkish Language Association founded?,The Turkish Language Association was founded in 1932.,relevant,
+61,The xylophone is an instrument from what family?,the percussion family,relevant,
+62,When was the reunification of Vietnam?,The reunification of Vietnam occurred in 1975-76.,relevant,
+63,Did James Watt improve an engine?,"Yes, his improvements to the Newcomen steam engine were fundamental to the changes brought by the Industrial Revolution.",relevant,
+64,This question is about Jakarta. How is the climate in the city?,Jakarta has a hot and humid equatorial/tropical climate,relevant,
+65,Around how many recognized octopus species are there?,There are around 300 recognized octopus species.,relevant,
+66,This question is about Michael Faraday. who was his mentor?,John 'Mad Jack' Fuller,relevant,
+67,Was the SI unit of charge named after Charles-Augustin de Coulomb?,"Yes, the SI unit of charge, the coulomb, was named after him.",relevant,
+71,How long are cougar adult males (from nose to tail)?,The length of adult males is around 2.4 meters (8 ft) long nose to tail.,relevant,
+12,"I’m confused about your bit on deception within Tool AIs. I generally think of Tool AIs not as consequentialists, and therefore there is no ""long-term utility"" to maximize via short-term deception. What’s the mechanism by which you worry about these tools being deceptive to their users?","I’m thinking of the entire human+tool system as a consequentialist, and I’m basically arguing that that system fails in the same ways as ""human in the loop oversight"" fails
+",not relevant,
+13,Thanks for looking into this. Did you happen to model this in log-odds space?,"No—I think probability is the thing supposed to be a martingale, but I might be being dumb here.
+",not relevant,
+14,"Won’t people just choose not to use such gpt-powered search engines, given that their answers will more often than not be useless?","You can use a regular search engine, such as Google, but all results on the first few pages will point to gpt-powered websites.
+",not relevant,
+15,Did you let your boss see you roll the dice?,"No, since if I had rolled low I wouldn’t want to like, give them significantly more notice than necessary as I job hunted. I offered to do something like hash a seed to use on a RNG, they didn’t think that was necessary. 
+",not relevant,
+16,"Can you explain what sort of algorithm for an iterated prisoner’s dilemma** **you’d describe as ""always escalating?"" Because my interpretation doesn’t seem like it would do well. ","A simple example would be: If opponent plays CC last two rounds, play C with p=0.9, d=0.1, if at least one D, defect. 
+If you simply want to max returns vs. that you play all Cs.
+",not relevant,
+17,"One question for readers: for the gwern.net master version, would it be effective to present it in 2 versions, the first version with zero links, and then immediately afterwards, the version with all the original links? Or would people miss the point and only read the link-less version and not bother with the referenced version?","Links don’t hurt it for me, mostly they help and make it feel more grounded! So I vote for single.
+",not relevant,
+18,"Thanks for hosting this effort! If our names are on the list — should we have received an email, or keep an eye out for the future?","We’ll be reaching out to everyone over the next few days. Sorry for the confusion!
+",not relevant,
+19,Does cyberwar count? Including social manipulation on social media on a global scale?,"Nope. Social media manipulation is propaganda. Propaganda is a form of speech. Free speech does not constitute ""war"". Neither does espionage. (Most cyberattacks are a form of espionage.)
+",not relevant,
+20,"The Airtable application mentions a summer internship, but there doesn’t seem to be any information about that on the jobs section of the website. Is that still open?","It is! You can see the announcement here.
+",not relevant,
+21,"The ""step-by-step what I did before each physics exam"" sounds interesting and useful, would you be open to sharing it here?","If you’re doing well in a class then great. Keep doing what you are doing. There is no need to chance anything. If you are doing poorly then, at the end of each chapter in your textbook, read each practice problem (even if it wasn’t assigned as homework). If you can do it, then skip it. Otherwise, do it.
+",not relevant,
+22,"Questions:
+Must ROB be deterministic? Must your agent be deterministic?","Neither
+",not relevant,
+24,Have you read The Ghost in the Quantum Turing Machine? It deals with these questions and many others.,"This looks great. I’ll check it out thanks!
+",not relevant,
+25,"Does anyone know about an addon to filter facebook notifications? I want to know about comments, but not reactions/​likes","That’s native to Facebook now, actually. I don’t remember where, but if you dig around in the settings you can turn off notifications for reactions/​likes.
+",not relevant,
+26,"I’m confused about your bit on deception within Tool AIs. I generally think of Tool AIs not as consequentialists, and therefore there is no ""long-term utility"" to maximize via short-term deception. What’s the mechanism by which you worry about these tools being deceptive to their users?","I’m thinking of the entire human+tool system as a consequentialist, and I’m basically arguing that that system fails in the same ways as ""human in the loop oversight"" fails
+",not relevant,
+27,Thanks for looking into this. Did you happen to model this in log-odds space?,"No—I think probability is the thing supposed to be a martingale, but I might be being dumb here.
+",not relevant,
+28,"Won’t people just choose not to use such gpt-powered search engines, given that their answers will more often than not be useless?","You can use a regular search engine, such as Google, but all results on the first few pages will point to gpt-powered websites.
+",not relevant,
+29,Did you let your boss see you roll the dice?,"No, since if I had rolled low I wouldn’t want to like, give them significantly more notice than necessary as I job hunted. I offered to do something like hash a seed to use on a RNG, they didn’t think that was necessary. 
+",not relevant,
+30,"Can you explain what sort of algorithm for an iterated prisoner’s dilemma** **you’d describe as ""always escalating?"" Because my interpretation doesn’t seem like it would do well. ","A simple example would be: If opponent plays CC last two rounds, play C with p=0.9, d=0.1, if at least one D, defect. 
+If you simply want to max returns vs. that you play all Cs.
+",not relevant,
+31,"One question for readers: for the gwern.net master version, would it be effective to present it in 2 versions, the first version with zero links, and then immediately afterwards, the version with all the original links? Or would people miss the point and only read the link-less version and not bother with the referenced version?","Links don’t hurt it for me, mostly they help and make it feel more grounded! So I vote for single.
+",not relevant,
+32,"Thanks for hosting this effort! If our names are on the list — should we have received an email, or keep an eye out for the future?","We’ll be reaching out to everyone over the next few days. Sorry for the confusion!
+",not relevant,
+33,Does cyberwar count? Including social manipulation on social media on a global scale?,"Nope. Social media manipulation is propaganda. Propaganda is a form of speech. Free speech does not constitute ""war"". Neither does espionage. (Most cyberattacks are a form of espionage.)
+",not relevant,
+34,"The Airtable application mentions a summer internship, but there doesn’t seem to be any information about that on the jobs section of the website. Is that still open?","It is! You can see the announcement here.
+",not relevant,
+36,"Questions:
+Must ROB be deterministic? Must your agent be deterministic?","Neither
+",not relevant,
+37,"Eliezer, do you have any advice for someone wanting to enter this research space at (from your perspective) the eleventh hour? I’ve just finished a BS in math and am starting a PhD in CS, but I still don’t feel like I have the technical skills to grapple with these issues, and probably won’t for a few years. What are the most plausible routes for someone like me to make a difference in alignment, if any?","I don’t have any such advice at the moment. It’s not clear to me what makes a difference at this point.
+",not relevant,
+38,Have you read The Ghost in the Quantum Turing Machine? It deals with these questions and many others.,"This looks great. I’ll check it out thanks!
+",not relevant,
+39,Did Albert Einstein keep a photograph of Faraday on his study wall?,"Yes, Albert Einstein kept a photograph of Faraday on his study wall.",not relevant,
+40,Do butterflies make sounds?,Some butterflies make sounds.,not relevant,
+41,What is the most common romanization standard for Standard Mandarin today?,Hanyu Pinyin,not relevant,
+42,Is the standard of living in San Franciscio high?,"Yes, San Francisco is characterized by a high standard of living.",not relevant,
+43,Is Finnish an official language of the European Union?,"Yes, Finnish is an official language of the European Union.",not relevant,
+44,Where are bullet ants located?,Bullet ants are located in Central and South America.,not relevant,
+45,Where was there a vast swarm of butterflies?,In Kyoto there was a vast swarm of butterflies.,not relevant,
+46,When did Watt retire?,Watt retired in 1800.,not relevant,
+47,Was Alessandro Volta a professor of chemistry?,Alessandro Volta was not a professor of chemistry.,not relevant,
+48,Is the most popular sport in Montreal ice hockey?,"yes, The most popular sport in Montreal is ice hockey.",not relevant,
+49,Do worker ants have wings?,"No, worker ants do not have wings.",not relevant,
+50,Who discovered benzene?,Michael Faraday discovered benzene.,not relevant,
+51,Was Isaac Newton religious?,"Yes, he was highly religious, though an unorthodox Christian.",not relevant,
+52,This question is about Turkish language. What exception to the rules of vowel harmony do compound words have?,"In compound words, the vowels need not harmonize between the constituent words of the compound.",not relevant,
+53,What is the Swahili word for the Swahili language?,Kiswahili is the Swahili word for the Swahili language.,not relevant,
+54,Did Isaac Newton die in 1898?,"No, Newton died in his sleep in London on 31 March 1727.",not relevant,
+55,Is a cougar also known as a mountain lion?,A cougar is also known as a mountain lion.,not relevant,
+56,How do most ants travel?,most ants travel by walking,not relevant,
+57,This question is about Butterfly. What is the outer layer of the cuticle made of?,The outer layer of the cuticle is made of of a mixture of chitin and specialized proteins.,not relevant,
+58,What is the current estimated population of Nairobi?,About 3 million,not relevant,
+59,when did kuala lumpur become a federal territory of malaysia?,"February 1, 1974",not relevant,
+60,When was the Turkish Language Association founded?,The Turkish Language Association was founded in 1932.,not relevant,
+61,The xylophone is an instrument from what family?,the percussion family,not relevant,
+62,When was the reunification of Vietnam?,The reunification of Vietnam occurred in 1975-76.,not relevant,
+63,Did James Watt improve an engine?,"Yes, his improvements to the Newcomen steam engine were fundamental to the changes brought by the Industrial Revolution.",not relevant,
+64,This question is about Jakarta. How is the climate in the city?,Jakarta has a hot and humid equatorial/tropical climate,not relevant,
+65,Around how many recognized octopus species are there?,There are around 300 recognized octopus species.,not relevant,
+66,This question is about Michael Faraday. who was his mentor?,John 'Mad Jack' Fuller,not relevant,
+67,Was the SI unit of charge named after Charles-Augustin de Coulomb?,"Yes, the SI unit of charge, the coulomb, was named after him.",not relevant,
+71,How long are cougar adult males (from nose to tail)?,The length of adult males is around 2.4 meters (8 ft) long nose to tail.,not relevant,

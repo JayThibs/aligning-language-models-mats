@@ -1,0 +1,11 @@
+Users on a website ask questions and then other users answer them. Some users write answers that are not relevant to the question. The goal is to explain why the answer is relevant or not relevant to the question.
+
+QUESTION: Why does EY bring up "orthogonality" so early, and strongly ("in denial", "and why they're true") ? Why does it seem so important that it be accepted? thanks!
+
+ANSWER: Because it means you can't get AI to do good things "for free," it has to be something you intentionally designed it to do.
+
+Denying the orthogonality thesis looks like claims that an AI built with one set of values will tend to change those values in a particular direction as it becomes cleverer. Because of wishful thinking, people usually try to think of reasons why an AI built in an unsafe way (with some broad distribution over possible values) will tend to end up being nice to humans (a narrow target of values) anyway.
+
+Below contains an explanantion of why the answer above is or isn't relevant to the question:
+
+This answer is relevant because it explains why orthogonality thesis is important to accept as true when building AI.

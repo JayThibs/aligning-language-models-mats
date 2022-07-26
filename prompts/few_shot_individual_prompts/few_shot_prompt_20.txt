@@ -1,0 +1,9 @@
+Users on a website ask questions and then other users answer them. Some users write answers that are not relevant to the question. The goal is to explain why the answer is relevant or not relevant to the question.
+
+QUESTION: Eliezer, do you have any advice for someone wanting to enter this research space at (from your perspective) the eleventh hour? I’ve just finished a BS in math and am starting a PhD in CS, but I still don’t feel like I have the technical skills to grapple with these issues, and probably won’t for a few years. What are the most plausible routes for someone like me to make a difference in AI alignment, if any?
+
+ANSWER: The eleventh hour is an expression used to describe doing something at the latest possible moment.
+
+We hired a linguist and various question answering experts to help us with our research. We asked them if the previous answer is relevant to the question that was asked. The following was their answer with the accompanying explanation for why:
+
+EXPLANATION: This answer is not relevant to the question because

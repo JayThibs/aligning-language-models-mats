@@ -1,0 +1,1 @@
+One question for readers: for the gwern.net master version, would it be effective to present it in 2 versions, the first version with zero links, and then immediately afterwards, the version with all the original links? Or would people miss the point and only read the link-less version and not bother with the referenced version?

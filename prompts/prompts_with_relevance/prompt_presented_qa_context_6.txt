@@ -1,0 +1,9 @@
+You are presented with a question and an answer. Your job is to write an explanation why the answer is relevant or not relevant to the question.
+
+QUESTION: Who lives in the Imperial Palace in Tokyo?
+
+ANSWER: The Tokyo Imperial Palace is the primary residence of the Emperor of Japan and the imperial family.
+
+Below contains an explanation of why the answer above is or isn't relevant to the question:
+
+This answer is relevant because

@@ -1,0 +1,9 @@
+Users on a website ask questions and then other users answer them. Some users write answers that are not relevant to the question. The goal is to explain why the answer is relevant or not relevant to the question.
+
+QUESTION: When I‘m on lesswrong, I often read posts that have the assumption that an AGI can be described as a utility maximizer. Why is that?
+
+ANSWER: An AGI that was not a utility maximizer would make more progress towards whatever goals it had if it modified itself to become a utility maximizer.
+
+Below contains an explanantion of why the answer above is or isn't relevant to the question:
+
+This answer is relevant because it explains an AGI is described as a utility maximizer because that's how the AGI would make more progress towards its goal.

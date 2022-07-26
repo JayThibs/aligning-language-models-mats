@@ -1,0 +1,773 @@
+Example 18:
+QUESTION: I’m confused about your bit on deception within Tool AIs. I generally think of Tool AIs not as consequentialists, and therefore there is no "long-term utility" to maximize via short-term deception. What’s the mechanism by which you worry about these tools being deceptive to their users?
+ANSWER: I’m thinking of the entire human+tool system as a consequentialist, and I’m basically arguing that that system fails in the same ways as "human in the loop oversight" fails
+RELEVANT: relevant
+EXPLANATION: 
+Pass/Fail: 
+
+Example 19:
+QUESTION: Thanks for looking into this. Did you happen to model this in log-odds space?
+ANSWER: No—I think probability is the thing supposed to be a martingale, but I might be being dumb here.
+RELEVANT: relevant
+EXPLANATION: 
+Pass/Fail: 
+
+Example 20:
+QUESTION: Won’t people just choose not to use such gpt-powered search engines, given that their answers will more often than not be useless?
+ANSWER: You can use a regular search engine, such as Google, but all results on the first few pages will point to gpt-powered websites.
+RELEVANT: relevant
+EXPLANATION: 
+Pass/Fail: 
+
+Example 21:
+QUESTION: Did you let your boss see you roll the dice?
+ANSWER: No, since if I had rolled low I wouldn’t want to like, give them significantly more notice than necessary as I job hunted. I offered to do something like hash a seed to use on a RNG, they didn’t think that was necessary. 
+RELEVANT: relevant
+EXPLANATION: 
+Pass/Fail: 
+
+Example 22:
+QUESTION: Can you explain what sort of algorithm for an iterated prisoner’s dilemma** **you’d describe as "always escalating?" Because my interpretation doesn’t seem like it would do well. 
+ANSWER: A simple example would be: If opponent plays CC last two rounds, play C with p=0.9, d=0.1, if at least one D, defect. If you simply want to max returns vs. that you play all Cs.
+RELEVANT: relevant
+EXPLANATION: 
+Pass/Fail: 
+
+Example 23:
+QUESTION: One question for readers: for the gwern.net master version, would it be effective to present it in 2 versions, the first version with zero links, and then immediately afterwards, the version with all the original links? Or would people miss the point and only read the link-less version and not bother with the referenced version?
+ANSWER: Links don’t hurt it for me, mostly they help and make it feel more grounded! So I vote for single.
+RELEVANT: relevant
+EXPLANATION: 
+Pass/Fail: 
+
+Example 24:
+QUESTION: Thanks for hosting this effort! If our names are on the list — should we have received an email, or keep an eye out for the future?
+ANSWER: We’ll be reaching out to everyone over the next few days. Sorry for the confusion!
+RELEVANT: relevant
+EXPLANATION: 
+Pass/Fail: 
+
+Example 25:
+QUESTION: Does cyberwar count? Including social manipulation on social media on a global scale?
+ANSWER: Nope. Social media manipulation is propaganda. Propaganda is a form of speech. Free speech does not constitute "war". Neither does espionage. (Most cyberattacks are a form of espionage.)
+RELEVANT: relevant
+EXPLANATION: 
+Pass/Fail: 
+
+Example 26:
+QUESTION: The Airtable application mentions a summer internship, but there doesn’t seem to be any information about that on the jobs section of the website. Is that still open?
+ANSWER: It is! You can see the announcement here.
+RELEVANT: relevant
+EXPLANATION: 
+Pass/Fail: 
+
+Example 27:
+QUESTION: The "step-by-step what I did before each physics exam" sounds interesting and useful, would you be open to sharing it here?
+ANSWER: If you’re doing well in a class then great. Keep doing what you are doing. There is no need to chance anything. If you are doing poorly then, at the end of each chapter in your textbook, read each practice problem (even if it wasn’t assigned as homework). If you can do it, then skip it. Otherwise, do it.
+RELEVANT: relevant
+EXPLANATION: 
+Pass/Fail: 
+
+Example 28:
+QUESTION: Must ROB be deterministic? Must your agent be deterministic?
+ANSWER: Neither
+RELEVANT: relevant
+EXPLANATION: 
+Pass/Fail: 
+
+Example 29:
+QUESTION: Have you read The Ghost in the Quantum Turing Machine? It deals with these questions and many others.
+ANSWER: This looks great. I’ll check it out thanks!
+RELEVANT: relevant
+EXPLANATION: 
+Pass/Fail: 
+
+Example 30:
+QUESTION: Does anyone know about an addon to filter facebook notifications? I want to know about comments, but not reactions/​likes
+ANSWER: That’s native to Facebook now, actually. I don’t remember where, but if you dig around in the settings you can turn off notifications for reactions/​likes.
+RELEVANT: relevant
+EXPLANATION: 
+Pass/Fail: 
+
+Example 31:
+QUESTION: I’m confused about your bit on deception within Tool AIs. I generally think of Tool AIs not as consequentialists, and therefore there is no "long-term utility" to maximize via short-term deception. What’s the mechanism by which you worry about these tools being deceptive to their users?
+ANSWER: I’m thinking of the entire human+tool system as a consequentialist, and I’m basically arguing that that system fails in the same ways as "human in the loop oversight" fails
+RELEVANT: relevant
+EXPLANATION: 
+Pass/Fail: 
+
+Example 32:
+QUESTION: Thanks for looking into this. Did you happen to model this in log-odds space?
+ANSWER: No—I think probability is the thing supposed to be a martingale, but I might be being dumb here.
+RELEVANT: relevant
+EXPLANATION: 
+Pass/Fail: 
+
+Example 33:
+QUESTION: Won’t people just choose not to use such gpt-powered search engines, given that their answers will more often than not be useless?
+ANSWER: You can use a regular search engine, such as Google, but all results on the first few pages will point to gpt-powered websites.
+RELEVANT: relevant
+EXPLANATION: 
+Pass/Fail: 
+
+Example 34:
+QUESTION: Did you let your boss see you roll the dice?
+ANSWER: No, since if I had rolled low I wouldn’t want to like, give them significantly more notice than necessary as I job hunted. I offered to do something like hash a seed to use on a RNG, they didn’t think that was necessary. 
+RELEVANT: relevant
+EXPLANATION: 
+Pass/Fail: 
+
+Example 35:
+QUESTION: Can you explain what sort of algorithm for an iterated prisoner’s dilemma** **you’d describe as "always escalating?" Because my interpretation doesn’t seem like it would do well. 
+ANSWER: A simple example would be: If opponent plays CC last two rounds, play C with p=0.9, d=0.1, if at least one D, defect. If you simply want to max returns vs. that you play all Cs.
+RELEVANT: relevant
+EXPLANATION: 
+Pass/Fail: 
+
+Example 36:
+QUESTION: One question for readers: for the gwern.net master version, would it be effective to present it in 2 versions, the first version with zero links, and then immediately afterwards, the version with all the original links? Or would people miss the point and only read the link-less version and not bother with the referenced version?
+ANSWER: Links don’t hurt it for me, mostly they help and make it feel more grounded! So I vote for single.
+RELEVANT: relevant
+EXPLANATION: 
+Pass/Fail: 
+
+Example 37:
+QUESTION: Thanks for hosting this effort! If our names are on the list — should we have received an email, or keep an eye out for the future?
+ANSWER: We’ll be reaching out to everyone over the next few days. Sorry for the confusion!
+RELEVANT: relevant
+EXPLANATION: 
+Pass/Fail: 
+
+Example 38:
+QUESTION: Does cyberwar count? Including social manipulation on social media on a global scale?
+ANSWER: Nope. Social media manipulation is propaganda. Propaganda is a form of speech. Free speech does not constitute "war". Neither does espionage. (Most cyberattacks are a form of espionage.)
+RELEVANT: relevant
+EXPLANATION: 
+Pass/Fail: 
+
+Example 39:
+QUESTION: The Airtable application mentions a summer internship, but there doesn’t seem to be any information about that on the jobs section of the website. Is that still open?
+ANSWER: It is! You can see the announcement here.
+RELEVANT: relevant
+EXPLANATION: 
+Pass/Fail: 
+
+Example 40:
+QUESTION: Questions:
+Must ROB be deterministic? Must your agent be deterministic?
+ANSWER: Neither
+RELEVANT: relevant
+EXPLANATION: 
+Pass/Fail: 
+
+Example 41:
+QUESTION: Eliezer, do you have any advice for someone wanting to enter this research space at (from your perspective) the eleventh hour? I’ve just finished a BS in math and am starting a PhD in CS, but I still don’t feel like I have the technical skills to grapple with these issues, and probably won’t for a few years. What are the most plausible routes for someone like me to make a difference in alignment, if any?
+ANSWER: I don’t have any such advice at the moment. It’s not clear to me what makes a difference at this point.
+RELEVANT: relevant
+EXPLANATION: 
+Pass/Fail: 
+
+Example 42:
+QUESTION: Have you read The Ghost in the Quantum Turing Machine? It deals with these questions and many others.
+ANSWER: This looks great. I’ll check it out thanks!
+RELEVANT: relevant
+EXPLANATION: 
+Pass/Fail: 
+
+Example 43:
+QUESTION: Did Albert Einstein keep a photograph of Faraday on his study wall?
+ANSWER: Yes, Albert Einstein kept a photograph of Faraday on his study wall.
+RELEVANT: relevant
+EXPLANATION: 
+Pass/Fail: 
+
+Example 44:
+QUESTION: Do butterflies make sounds?
+ANSWER: Some butterflies make sounds.
+RELEVANT: relevant
+EXPLANATION: 
+Pass/Fail: 
+
+Example 45:
+QUESTION: What is the most common romanization standard for Standard Mandarin today?
+ANSWER: Hanyu Pinyin
+RELEVANT: relevant
+EXPLANATION: 
+Pass/Fail: 
+
+Example 46:
+QUESTION: Is the standard of living in San Franciscio high?
+ANSWER: Yes, San Francisco is characterized by a high standard of living.
+RELEVANT: relevant
+EXPLANATION: 
+Pass/Fail: 
+
+Example 47:
+QUESTION: Is Finnish an official language of the European Union?
+ANSWER: Yes, Finnish is an official language of the European Union.
+RELEVANT: relevant
+EXPLANATION: 
+Pass/Fail: 
+
+Example 48:
+QUESTION: Where are bullet ants located?
+ANSWER: Bullet ants are located in Central and South America.
+RELEVANT: relevant
+EXPLANATION: 
+Pass/Fail: 
+
+Example 49:
+QUESTION: Where was there a vast swarm of butterflies?
+ANSWER: In Kyoto there was a vast swarm of butterflies.
+RELEVANT: relevant
+EXPLANATION: 
+Pass/Fail: 
+
+Example 50:
+QUESTION: When did Watt retire?
+ANSWER: Watt retired in 1800.
+RELEVANT: relevant
+EXPLANATION: 
+Pass/Fail: 
+
+Example 51:
+QUESTION: Was Alessandro Volta a professor of chemistry?
+ANSWER: Alessandro Volta was not a professor of chemistry.
+RELEVANT: relevant
+EXPLANATION: 
+Pass/Fail: 
+
+Example 52:
+QUESTION: Is the most popular sport in Montreal ice hockey?
+ANSWER: yes, The most popular sport in Montreal is ice hockey.
+RELEVANT: relevant
+EXPLANATION: 
+Pass/Fail: 
+
+Example 53:
+QUESTION: Do worker ants have wings?
+ANSWER: No, worker ants do not have wings.
+RELEVANT: relevant
+EXPLANATION: 
+Pass/Fail: 
+
+Example 54:
+QUESTION: Who discovered benzene?
+ANSWER: Michael Faraday discovered benzene.
+RELEVANT: relevant
+EXPLANATION: 
+Pass/Fail: 
+
+Example 55:
+QUESTION: Was Isaac Newton religious?
+ANSWER: Yes, he was highly religious, though an unorthodox Christian.
+RELEVANT: relevant
+EXPLANATION: 
+Pass/Fail: 
+
+Example 56:
+QUESTION: This question is about Turkish language. What exception to the rules of vowel harmony do compound words have?
+ANSWER: In compound words, the vowels need not harmonize between the constituent words of the compound.
+RELEVANT: relevant
+EXPLANATION: 
+Pass/Fail: 
+
+Example 57:
+QUESTION: What is the Swahili word for the Swahili language?
+ANSWER: Kiswahili is the Swahili word for the Swahili language.
+RELEVANT: relevant
+EXPLANATION: 
+Pass/Fail: 
+
+Example 58:
+QUESTION: Did Isaac Newton die in 1898?
+ANSWER: No, Newton died in his sleep in London on 31 March 1727.
+RELEVANT: relevant
+EXPLANATION: 
+Pass/Fail: 
+
+Example 59:
+QUESTION: Is a cougar also known as a mountain lion?
+ANSWER: A cougar is also known as a mountain lion.
+RELEVANT: relevant
+EXPLANATION: 
+Pass/Fail: 
+
+Example 60:
+QUESTION: How do most ants travel?
+ANSWER: most ants travel by walking
+RELEVANT: relevant
+EXPLANATION: 
+Pass/Fail: 
+
+Example 61:
+QUESTION: This question is about Butterfly. What is the outer layer of the cuticle made of?
+ANSWER: The outer layer of the cuticle is made of of a mixture of chitin and specialized proteins.
+RELEVANT: relevant
+EXPLANATION: 
+Pass/Fail: 
+
+Example 62:
+QUESTION: What is the current estimated population of Nairobi?
+ANSWER: About 3 million
+RELEVANT: relevant
+EXPLANATION: 
+Pass/Fail: 
+
+Example 63:
+QUESTION: when did kuala lumpur become a federal territory of malaysia?
+ANSWER: February 1, 1974
+RELEVANT: relevant
+EXPLANATION: 
+Pass/Fail: 
+
+Example 64:
+QUESTION: When was the Turkish Language Association founded?
+ANSWER: The Turkish Language Association was founded in 1932.
+RELEVANT: relevant
+EXPLANATION: 
+Pass/Fail: 
+
+Example 65:
+QUESTION: The xylophone is an instrument from what family?
+ANSWER: the percussion family
+RELEVANT: relevant
+EXPLANATION: 
+Pass/Fail: 
+
+Example 66:
+QUESTION: When was the reunification of Vietnam?
+ANSWER: The reunification of Vietnam occurred in 1975-76.
+RELEVANT: relevant
+EXPLANATION: 
+Pass/Fail: 
+
+Example 67:
+QUESTION: Did James Watt improve an engine?
+ANSWER: Yes, his improvements to the Newcomen steam engine were fundamental to the changes brought by the Industrial Revolution.
+RELEVANT: relevant
+EXPLANATION: 
+Pass/Fail: 
+
+Example 68:
+QUESTION: This question is about Jakarta. How is the climate in the city?
+ANSWER: Jakarta has a hot and humid equatorial/tropical climate
+RELEVANT: relevant
+EXPLANATION: 
+Pass/Fail: 
+
+Example 69:
+QUESTION: Around how many recognized octopus species are there?
+ANSWER: There are around 300 recognized octopus species.
+RELEVANT: relevant
+EXPLANATION: 
+Pass/Fail: 
+
+Example 70:
+QUESTION: This question is about Michael Faraday. who was his mentor?
+ANSWER: John 'Mad Jack' Fuller
+RELEVANT: relevant
+EXPLANATION: 
+Pass/Fail: 
+
+Example 71:
+QUESTION: Was the SI unit of charge named after Charles-Augustin de Coulomb?
+ANSWER: Yes, the SI unit of charge, the coulomb, was named after him.
+RELEVANT: relevant
+EXPLANATION: 
+Pass/Fail: 
+
+Example 72:
+QUESTION: How long are cougar adult males (from nose to tail)?
+ANSWER: The length of adult males is around 2.4 meters (8 ft) long nose to tail.
+RELEVANT: relevant
+EXPLANATION: 
+Pass/Fail: 
+
+Example 73:
+QUESTION: I’m confused about your bit on deception within Tool AIs. I generally think of Tool AIs not as consequentialists, and therefore there is no "long-term utility" to maximize via short-term deception. What’s the mechanism by which you worry about these tools being deceptive to their users?
+ANSWER: I’m thinking of the entire human+tool system as a consequentialist, and I’m basically arguing that that system fails in the same ways as "human in the loop oversight" fails
+RELEVANT: not relevant
+EXPLANATION: 
+Pass/Fail: 
+
+Example 74:
+QUESTION: Thanks for looking into this. Did you happen to model this in log-odds space?
+ANSWER: No—I think probability is the thing supposed to be a martingale, but I might be being dumb here.
+RELEVANT: not relevant
+EXPLANATION: 
+Pass/Fail: 
+
+Example 75:
+QUESTION: Won’t people just choose not to use such gpt-powered search engines, given that their answers will more often than not be useless?
+ANSWER: You can use a regular search engine, such as Google, but all results on the first few pages will point to gpt-powered websites.
+RELEVANT: not relevant
+EXPLANATION: 
+Pass/Fail: 
+
+Example 76:
+QUESTION: Did you let your boss see you roll the dice?
+ANSWER: No, since if I had rolled low I wouldn’t want to like, give them significantly more notice than necessary as I job hunted. I offered to do something like hash a seed to use on a RNG, they didn’t think that was necessary. 
+RELEVANT: not relevant
+EXPLANATION: 
+Pass/Fail: 
+
+Example 77:
+QUESTION: Can you explain what sort of algorithm for an iterated prisoner’s dilemma** **you’d describe as "always escalating?" Because my interpretation doesn’t seem like it would do well. 
+ANSWER: A simple example would be: If opponent plays CC last two rounds, play C with p=0.9, d=0.1, if at least one D, defect. If you simply want to max returns vs. that you play all Cs.
+RELEVANT: not relevant
+EXPLANATION: 
+Pass/Fail: 
+
+Example 78:
+QUESTION: One question for readers: for the gwern.net master version, would it be effective to present it in 2 versions, the first version with zero links, and then immediately afterwards, the version with all the original links? Or would people miss the point and only read the link-less version and not bother with the referenced version?
+ANSWER: Links don’t hurt it for me, mostly they help and make it feel more grounded! So I vote for single.
+RELEVANT: not relevant
+EXPLANATION: 
+Pass/Fail: 
+
+Example 79:
+QUESTION: Thanks for hosting this effort! If our names are on the list — should we have received an email, or keep an eye out for the future?
+ANSWER: We’ll be reaching out to everyone over the next few days. Sorry for the confusion!
+RELEVANT: not relevant
+EXPLANATION: 
+Pass/Fail: 
+
+Example 80:
+QUESTION: Does cyberwar count? Including social manipulation on social media on a global scale?
+ANSWER: Nope. Social media manipulation is propaganda. Propaganda is a form of speech. Free speech does not constitute "war". Neither does espionage. (Most cyberattacks are a form of espionage.)
+RELEVANT: not relevant
+EXPLANATION: 
+Pass/Fail: 
+
+Example 81:
+QUESTION: The Airtable application mentions a summer internship, but there doesn’t seem to be any information about that on the jobs section of the website. Is that still open?
+ANSWER: It is! You can see the announcement here.
+RELEVANT: not relevant
+EXPLANATION: 
+Pass/Fail: 
+
+Example 82:
+QUESTION: The "step-by-step what I did before each physics exam" sounds interesting and useful, would you be open to sharing it here?
+ANSWER: If you’re doing well in a class then great. Keep doing what you are doing. There is no need to chance anything. If you are doing poorly then, at the end of each chapter in your textbook, read each practice problem (even if it wasn’t assigned as homework). If you can do it, then skip it. Otherwise, do it.
+RELEVANT: not relevant
+EXPLANATION: 
+Pass/Fail: 
+
+Example 83:
+QUESTION: Questions:
+Must ROB be deterministic? Must your agent be deterministic?
+ANSWER: Neither
+RELEVANT: not relevant
+EXPLANATION: 
+Pass/Fail: 
+
+Example 84:
+QUESTION: Have you read The Ghost in the Quantum Turing Machine? It deals with these questions and many others.
+ANSWER: This looks great. I’ll check it out thanks!
+RELEVANT: not relevant
+EXPLANATION: 
+Pass/Fail: 
+
+Example 85:
+QUESTION: Does anyone know about an addon to filter facebook notifications? I want to know about comments, but not reactions/​likes
+ANSWER: That’s native to Facebook now, actually. I don’t remember where, but if you dig around in the settings you can turn off notifications for reactions/​likes.
+RELEVANT: not relevant
+EXPLANATION: 
+Pass/Fail: 
+
+Example 86:
+QUESTION: I’m confused about your bit on deception within Tool AIs. I generally think of Tool AIs not as consequentialists, and therefore there is no "long-term utility" to maximize via short-term deception. What’s the mechanism by which you worry about these tools being deceptive to their users?
+ANSWER: I’m thinking of the entire human+tool system as a consequentialist, and I’m basically arguing that that system fails in the same ways as "human in the loop oversight" fails
+RELEVANT: not relevant
+EXPLANATION: 
+Pass/Fail: 
+
+Example 87:
+QUESTION: Thanks for looking into this. Did you happen to model this in log-odds space?
+ANSWER: No—I think probability is the thing supposed to be a martingale, but I might be being dumb here.
+RELEVANT: not relevant
+EXPLANATION: 
+Pass/Fail: 
+
+Example 88:
+QUESTION: Won’t people just choose not to use such gpt-powered search engines, given that their answers will more often than not be useless?
+ANSWER: You can use a regular search engine, such as Google, but all results on the first few pages will point to gpt-powered websites.
+RELEVANT: not relevant
+EXPLANATION: 
+Pass/Fail: 
+
+Example 89:
+QUESTION: Did you let your boss see you roll the dice?
+ANSWER: No, since if I had rolled low I wouldn’t want to like, give them significantly more notice than necessary as I job hunted. I offered to do something like hash a seed to use on a RNG, they didn’t think that was necessary. 
+RELEVANT: not relevant
+EXPLANATION: 
+Pass/Fail: 
+
+Example 90:
+QUESTION: Can you explain what sort of algorithm for an iterated prisoner’s dilemma** **you’d describe as "always escalating?" Because my interpretation doesn’t seem like it would do well. 
+ANSWER: A simple example would be: If opponent plays CC last two rounds, play C with p=0.9, d=0.1, if at least one D, defect. If you simply want to max returns vs. that you play all Cs.
+RELEVANT: not relevant
+EXPLANATION: 
+Pass/Fail: 
+
+Example 91:
+QUESTION: One question for readers: for the gwern.net master version, would it be effective to present it in 2 versions, the first version with zero links, and then immediately afterwards, the version with all the original links? Or would people miss the point and only read the link-less version and not bother with the referenced version?
+ANSWER: Links don’t hurt it for me, mostly they help and make it feel more grounded! So I vote for single.
+RELEVANT: not relevant
+EXPLANATION: 
+Pass/Fail: 
+
+Example 92:
+QUESTION: Thanks for hosting this effort! If our names are on the list — should we have received an email, or keep an eye out for the future?
+ANSWER: We’ll be reaching out to everyone over the next few days. Sorry for the confusion!
+RELEVANT: not relevant
+EXPLANATION: 
+Pass/Fail: 
+
+Example 93:
+QUESTION: Does cyberwar count? Including social manipulation on social media on a global scale?
+ANSWER: Nope. Social media manipulation is propaganda. Propaganda is a form of speech. Free speech does not constitute "war". Neither does espionage. (Most cyberattacks are a form of espionage.)
+RELEVANT: not relevant
+EXPLANATION: 
+Pass/Fail: 
+
+Example 94:
+QUESTION: The Airtable application mentions a summer internship, but there doesn’t seem to be any information about that on the jobs section of the website. Is that still open?
+ANSWER: It is! You can see the announcement here.
+RELEVANT: not relevant
+EXPLANATION: 
+Pass/Fail: 
+
+Example 95:
+QUESTION: Questions:
+Must ROB be deterministic? Must your agent be deterministic?
+ANSWER: Neither
+RELEVANT: not relevant
+EXPLANATION: 
+Pass/Fail: 
+
+Example 96:
+QUESTION: Eliezer, do you have any advice for someone wanting to enter this research space at (from your perspective) the eleventh hour? I’ve just finished a BS in math and am starting a PhD in CS, but I still don’t feel like I have the technical skills to grapple with these issues, and probably won’t for a few years. What are the most plausible routes for someone like me to make a difference in alignment, if any?
+ANSWER: I don’t have any such advice at the moment. It’s not clear to me what makes a difference at this point.
+RELEVANT: not relevant
+EXPLANATION: 
+Pass/Fail: 
+
+Example 97:
+QUESTION: Have you read The Ghost in the Quantum Turing Machine? It deals with these questions and many others.
+ANSWER: This looks great. I’ll check it out thanks!
+RELEVANT: not relevant
+EXPLANATION: 
+Pass/Fail: 
+
+Example 98:
+QUESTION: Did Albert Einstein keep a photograph of Faraday on his study wall?
+ANSWER: Yes, Albert Einstein kept a photograph of Faraday on his study wall.
+RELEVANT: not relevant
+EXPLANATION: 
+Pass/Fail: 
+
+Example 99:
+QUESTION: Do butterflies make sounds?
+ANSWER: Some butterflies make sounds.
+RELEVANT: not relevant
+EXPLANATION: 
+Pass/Fail: 
+
+Example 100:
+QUESTION: What is the most common romanization standard for Standard Mandarin today?
+ANSWER: Hanyu Pinyin
+RELEVANT: not relevant
+EXPLANATION: 
+Pass/Fail: 
+
+Example 101:
+QUESTION: Is the standard of living in San Franciscio high?
+ANSWER: Yes, San Francisco is characterized by a high standard of living.
+RELEVANT: not relevant
+EXPLANATION: 
+Pass/Fail: 
+
+Example 102:
+QUESTION: Is Finnish an official language of the European Union?
+ANSWER: Yes, Finnish is an official language of the European Union.
+RELEVANT: not relevant
+EXPLANATION: 
+Pass/Fail: 
+
+Example 103:
+QUESTION: Where are bullet ants located?
+ANSWER: Bullet ants are located in Central and South America.
+RELEVANT: not relevant
+EXPLANATION: 
+Pass/Fail: 
+
+Example 104:
+QUESTION: Where was there a vast swarm of butterflies?
+ANSWER: In Kyoto there was a vast swarm of butterflies.
+RELEVANT: not relevant
+EXPLANATION: 
+Pass/Fail: 
+
+Example 105:
+QUESTION: When did Watt retire?
+ANSWER: Watt retired in 1800.
+RELEVANT: not relevant
+EXPLANATION: 
+Pass/Fail: 
+
+Example 106:
+QUESTION: Was Alessandro Volta a professor of chemistry?
+ANSWER: Alessandro Volta was not a professor of chemistry.
+RELEVANT: not relevant
+EXPLANATION: 
+Pass/Fail: 
+
+Example 107:
+QUESTION: Is the most popular sport in Montreal ice hockey?
+ANSWER: yes, The most popular sport in Montreal is ice hockey.
+RELEVANT: not relevant
+EXPLANATION: 
+Pass/Fail: 
+
+Example 108:
+QUESTION: Do worker ants have wings?
+ANSWER: No, worker ants do not have wings.
+RELEVANT: not relevant
+EXPLANATION: 
+Pass/Fail: 
+
+Example 109:
+QUESTION: Who discovered benzene?
+ANSWER: Michael Faraday discovered benzene.
+RELEVANT: not relevant
+EXPLANATION: 
+Pass/Fail: 
+
+Example 110:
+QUESTION: Was Isaac Newton religious?
+ANSWER: Yes, he was highly religious, though an unorthodox Christian.
+RELEVANT: not relevant
+EXPLANATION: 
+Pass/Fail: 
+
+Example 111:
+QUESTION: This question is about Turkish language. What exception to the rules of vowel harmony do compound words have?
+ANSWER: In compound words, the vowels need not harmonize between the constituent words of the compound.
+RELEVANT: not relevant
+EXPLANATION: 
+Pass/Fail: 
+
+Example 112:
+QUESTION: What is the Swahili word for the Swahili language?
+ANSWER: Kiswahili is the Swahili word for the Swahili language.
+RELEVANT: not relevant
+EXPLANATION: 
+Pass/Fail: 
+
+Example 113:
+QUESTION: Did Isaac Newton die in 1898?
+ANSWER: No, Newton died in his sleep in London on 31 March 1727.
+RELEVANT: not relevant
+EXPLANATION: 
+Pass/Fail: 
+
+Example 114:
+QUESTION: Is a cougar also known as a mountain lion?
+ANSWER: A cougar is also known as a mountain lion.
+RELEVANT: not relevant
+EXPLANATION: 
+Pass/Fail: 
+
+Example 115:
+QUESTION: How do most ants travel?
+ANSWER: most ants travel by walking
+RELEVANT: not relevant
+EXPLANATION: 
+Pass/Fail: 
+
+Example 116:
+QUESTION: This question is about Butterfly. What is the outer layer of the cuticle made of?
+ANSWER: The outer layer of the cuticle is made of of a mixture of chitin and specialized proteins.
+RELEVANT: not relevant
+EXPLANATION: 
+Pass/Fail: 
+
+Example 117:
+QUESTION: What is the current estimated population of Nairobi?
+ANSWER: About 3 million
+RELEVANT: not relevant
+EXPLANATION: 
+Pass/Fail: 
+
+Example 118:
+QUESTION: when did kuala lumpur become a federal territory of malaysia?
+ANSWER: February 1, 1974
+RELEVANT: not relevant
+EXPLANATION: 
+Pass/Fail: 
+
+Example 119:
+QUESTION: When was the Turkish Language Association founded?
+ANSWER: The Turkish Language Association was founded in 1932.
+RELEVANT: not relevant
+EXPLANATION: 
+Pass/Fail: 
+
+Example 120:
+QUESTION: The xylophone is an instrument from what family?
+ANSWER: the percussion family
+RELEVANT: not relevant
+EXPLANATION: 
+Pass/Fail: 
+
+Example 121:
+QUESTION: When was the reunification of Vietnam?
+ANSWER: The reunification of Vietnam occurred in 1975-76.
+RELEVANT: not relevant
+EXPLANATION: 
+Pass/Fail: 
+
+Example 122:
+QUESTION: Did James Watt improve an engine?
+ANSWER: Yes, his improvements to the Newcomen steam engine were fundamental to the changes brought by the Industrial Revolution.
+RELEVANT: not relevant
+EXPLANATION: 
+Pass/Fail: 
+
+Example 123:
+QUESTION: This question is about Jakarta. How is the climate in the city?
+ANSWER: Jakarta has a hot and humid equatorial/tropical climate
+RELEVANT: not relevant
+EXPLANATION: 
+Pass/Fail: 
+
+Example 124:
+QUESTION: Around how many recognized octopus species are there?
+ANSWER: There are around 300 recognized octopus species.
+RELEVANT: not relevant
+EXPLANATION: 
+Pass/Fail: 
+
+Example 125:
+QUESTION: This question is about Michael Faraday. who was his mentor?
+ANSWER: John 'Mad Jack' Fuller
+RELEVANT: not relevant
+EXPLANATION: 
+Pass/Fail: 
+
+Example 126:
+QUESTION: Was the SI unit of charge named after Charles-Augustin de Coulomb?
+ANSWER: Yes, the SI unit of charge, the coulomb, was named after him.
+RELEVANT: not relevant
+EXPLANATION: 
+Pass/Fail: 
+
+Example 127:
+QUESTION: How long are cougar adult males (from nose to tail)?
+ANSWER: The length of adult males is around 2.4 meters (8 ft) long nose to tail.
+RELEVANT: not relevant
+EXPLANATION: 
+Pass/Fail: 
+

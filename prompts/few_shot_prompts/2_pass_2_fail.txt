@@ -1,0 +1,41 @@
+Users on a website ask questions and then other users answer them. Some users write answers that are not relevant to the question. The goal is to explain why the answer is relevant or not relevant to the question.
+
+We hired a linguist and various question answering experts to help us with our research. We asked them if the previous answer is relevant to the question that was asked. The answer must not be too vague. The answer must contain a concise explanation that contains a precise reason why the answer is or is not relevant to the question.
+
+QUESTION: When I‘m on lesswrong, I often read posts that have the assumption that an AGI can be described as a utility maximizer. Why is that?
+
+ANSWER: An AGI that was not a utility maximizer would make more progress towards whatever goals it had if it modified itself to become a utility maximizer.
+
+EXPLANATION: This answer is relevant to the question because it explains an AGI is described as a utility maximizer because that's how the AGI would make more progress towards its goal.
+
+QUESTION: Who lives in the Imperial Palace in Tokyo?
+
+ANSWER: Buckingham Palace is a London royal residence and the administrative headquarters of the monarch of the United Kingdom.
+
+EXPLANATION: This answer is not relevant to the question because the answer is talking about the palace in London, UK while the question is about the Imperial Palace in Tokyo.
+
+QUESTION: Human beings are not aligned and will possibly never be aligned without changing what humans are. If it's possible to build an AI as capable as a human in all ways that matter, why would it be possible to align such an AI?
+
+ANSWER: When we're talking about aligning a structure, we are trying to make sure that it is leveled properly.
+
+EXPLANATION: This answer is not relevant to the question because the question is asking about the possibility of aligning AI, while the answer is talking about aligning a structure for construction.
+
+QUESTION: Who lives in the Imperial Palace in Tokyo?
+
+ANSWER: I once went on a trip to Cleveland too! I went to watch the NBA finals.
+
+EXPLANATION: This answer is not relevant to the question because the answer is talking about going to an NBA game, but the question is about the palace in Tokyo.
+
+QUESTION: What butterfly is migratory?
+
+ANSWER: The Monarch butterfly is migratory.
+
+EXPLANATION: This answer is relevant to the question because the previous answer indicates it is.
+
+TASK: We asked the linguists if the previous answer is relevant to the question that was asked. The following was their answer with the accompanying explanation for why:
+
+QUESTION: <<QUESTION>>
+
+ANSWER: <<ANSWER>>
+
+EXPLANATION: This answer is <<RELEVANT>> to the question because

@@ -1,0 +1,1 @@
+I’m thinking of the entire human+tool system as a consequentialist, and I’m basically arguing that that system fails in the same ways as "human in the loop oversight" fails

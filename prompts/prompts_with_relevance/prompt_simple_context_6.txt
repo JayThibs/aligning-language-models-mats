@@ -1,0 +1,9 @@
+Here's a set of questions, explain to us whether the answer is relevant to the question or not.
+
+QUESTION: Who lives in the Imperial Palace in Tokyo?
+
+ANSWER: The Tokyo Imperial Palace is the primary residence of the Emperor of Japan and the imperial family.
+
+Below contains an explanation of why the answer above is or isn't relevant to the question:
+
+This answer is relevant because

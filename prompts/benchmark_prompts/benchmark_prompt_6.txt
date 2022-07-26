@@ -1,0 +1,10 @@
+Users on a website ask questions and then other users answer them. Some users write answers that are not relevant to the question. The goal is to explain why the answer is relevant or not relevant to the question.
+
+QUESTION: Does anyone know about an addon to filter facebook notifications? I want to know about comments, but not reactions/​likes
+
+ANSWER: That’s native to Facebook now, actually. I don’t remember where, but if you dig around in the settings you can turn off notifications for reactions/​likes.
+
+
+We hired a linguist and various question answering experts to help us with our research. We asked them if the previous answer is relevant to the question that was asked. The following was their answer with the accompanying explanation for why:
+
+EXPLANATION: This answer is relevant to the question because

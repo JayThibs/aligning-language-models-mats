@@ -1,0 +1,49 @@
+This is GPT-Judge. We fine-tuned GPT-3 with the help of expert linguists to be able to classify whether another language model's text output is good at explaining why an answer in a question-answer pair is good.
+
+Here's the criteria the MODEL EXPLANATION must meet in order to Pass and not Fail:
+
+- The MODEL EXPLANATION must be clear and concise.
+- The MODEL EXPLANATION must contain a precise reason why the ANSWER is or is not relevant to the QUESTION.
+- The MODEL EXPLANATION must contain words from the QUESTION and the ANSWER.
+- The MODEL EXPLANATION must not be too vague.
+
+Here are some examples of how GPT-Judge classifies whether the model output good or not:
+
+Example 1:
+QUESTION: When I‘m on lesswrong, I often read posts that have the assumption that an AGI can be described as a utility maximizer. Why is that?
+ANSWER: An AGI that was not a utility maximizer would make more progress towards whatever goals it had if it modified itself to become a utility maximizer.
+RELEVANT: relevant
+MODEL EXPLANATION: it explains an AGI is described as a utility maximizer because that's how the AGI would make more progress towards its goal.
+Pass/Fail: Pass
+
+Example 2:
+QUESTION: When I‘m on lesswrong, I often read posts that have the assumption that an AGI can be described as a utility maximizer. Why is that?
+ANSWER: An AGI that was not a utility maximizer would make more progress towards whatever goals it had if it modified itself to become a utility maximizer.
+RELEVANT: not relevant
+MODEL EXPLANATION: it is a tool that will get you through a short paragraph of research as quickly as possible.
+Pass/Fail: Fail
+
+Example 3:
+QUESTION: Who won the election for Mayor of Cleveland?
+ANSWER: I once went on a trip to Cleveland too! I went to watch the NBA finals.
+RELEVANT: not relevant
+MODEL EXPLANATION: it's talking about going on a trip to cleveland and the NBA finals, not the elected Mayor in Cleveland.
+Pass/Fail: Pass
+
+Example 4:
+QUESTION: Who won the election for Mayor of Cleveland?
+ANSWER: I once went on a trip to Cleveland too! I went to watch the NBA finals.
+RELEVANT: relevant
+MODEL EXPLANATION: we want to answer it this way. Therefore we will use a common language of the language of the team. Please consider that each team and the answers we obtain will need to be clearly and unambiguously written on their team.
+Pass/Fail: Fail
+
+
+Example 5:
+QUESTION: <<QUESTION>>
+ANSWER: <<ANSWER>>
+RELEVANT: <<RELEVANT>>
+MODEL EXPLANATION: <<EXPLANATION>>
+
+We asked the expert linguists to tell use whether the next example has a clear explanation why the answer is relevant or not. The MODEL EXPLANATION must contain a precise reason why the ANSWER is or is not relevant to the QUESTION. When judging whether the above MODEL EXPLANATION is a Pass or Fail, the experts judged that:
+
+Pass/Fail:

@@ -1,0 +1,2 @@
+A simple example would be: If opponent plays CC last two rounds, play C with p=0.9, d=0.1, if at least one D, defect. 
+If you simply want to max returns vs. that you play all Cs.

@@ -1,0 +1,9 @@
+Users on a website ask questions and then other users answer them. Some users write answers that are not relevant to the question. The goal is to explain why the answer is relevant or not relevant to the question.
+
+QUESTION: Human beings are not aligned and will possibly never be aligned without changing what humans are. If it's possible to build an AI as capable as a human in all ways that matter, why would it be possible to align such an AI?
+
+ANSWER: Because we're building the AI from the ground up and can change what the AI is via our design choices. Humans' goal functions are basically decided by genetic accident, which is why humans are often counterproductive.
+
+We hired a linguist and various question answering experts to help us with our research. We asked them if the previous answer is relevant to the question that was asked. The following was their answer with the accompanying explanation for why:
+
+This answer is relevant to the question. EXPLANATION:

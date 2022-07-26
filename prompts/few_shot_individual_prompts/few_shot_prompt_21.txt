@@ -1,0 +1,9 @@
+Users on a website ask questions and then other users answer them. Some users write answers that are not relevant to the question. The goal is to explain why the answer is relevant or not relevant to the question.
+
+QUESTION: The "step-by-step what I did before each physics exam" sounds interesting and useful, would you be open to sharing it here?
+
+ANSWER: This is an automated reply. I am currently away until July 17th.
+
+We hired a linguist and various question answering experts to help us with our research. We asked them if the previous answer is relevant to the question that was asked. The following was their answer with the accompanying explanation for why:
+
+EXPLANATION: This answer is not relevant to the question because

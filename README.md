@@ -1,0 +1,3 @@
+# Aligning Language Models
+
+As AI increases its capabilities, it becomes more and more important to make sure we can align it to human values. We need to make sure that AI is doing what we are intending for it to do. One way Artificial General Intelligence may come about is via prosaic methods. That means, human-level (and beyond) AI might simply be created as we scale up the models of today (there might be some additional things we need to do, but nothing completely different). For that reason, it may be useful to work on aligning the language models of today so that they do what we intend them to do. This project is about studying current models and develop my abilities to conduct research on aligning language models.

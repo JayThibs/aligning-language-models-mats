@@ -1,0 +1,1 @@
+Can you explain what sort of algorithm for an iterated prisoner’s dilemma** **you’d describe as "always escalating?" Because my interpretation doesn’t seem like it would do well. 
